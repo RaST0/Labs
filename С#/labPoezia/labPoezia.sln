@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labPoezia", "labPoezia\labPoezia.csproj", "{5FB447B5-C10A-4468-8870-FE9B49263795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FB447B5-C10A-4468-8870-FE9B49263795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB447B5-C10A-4468-8870-FE9B49263795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB447B5-C10A-4468-8870-FE9B49263795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB447B5-C10A-4468-8870-FE9B49263795}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D6290CD-1115-4D9A-8AE5-18325C2074B3}
+	EndGlobalSection
+EndGlobal

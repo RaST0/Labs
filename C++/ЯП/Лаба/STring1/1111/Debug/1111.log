@@ -1,0 +1,9 @@
+﻿  1111.cpp
+c:\users\rast0\source\repos\string1\1111\1111.cpp(41): error C2535: MyString::~MyString(void): функция-член уже определена или объявлена
+  c:\users\rast0\source\repos\string1\1111\1111.cpp(15): note:  см. объявление "MyString::~MyString"
+c:\users\rast0\source\repos\string1\1111\1111.cpp(23): error C3861: strlen: идентификатор не найден
+c:\users\rast0\source\repos\string1\1111\1111.cpp(48): error C3861: strlen: идентификатор не найден
+c:\users\rast0\source\repos\string1\1111\1111.cpp(70): error C3861: strlen: идентификатор не найден
+c:\users\rast0\source\repos\string1\1111\1111.cpp(92): error C3861: strlen: идентификатор не найден
+c:\users\rast0\source\repos\string1\1111\1111.cpp(93): error C3861: strlen: идентификатор не найден
+c:\users\rast0\source\repos\string1\1111\1111.cpp(121): error C2065: cout: необъявленный идентификатор

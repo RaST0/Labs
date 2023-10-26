@@ -1,0 +1,7 @@
+﻿  ST+FC.cpp
+c:\users\rast0\source\repos\string1\st+fc\st+fc.cpp(101): error C2365: MyString::lenght: переопределение; предыдущим определением было "функция-член"
+  c:\users\rast0\source\repos\string1\st+fc\st+fc.cpp(95): note:  см. объявление "MyString::lenght"
+c:\users\rast0\source\repos\string1\st+fc\st+fc.cpp(17): error C2659: =: функция в качестве левого операнда
+c:\users\rast0\source\repos\string1\st+fc\st+fc.cpp(97): error C3867: "MyString::lenght": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\rast0\source\repos\string1\st+fc\st+fc.cpp(97): error C2440: return: невозможно преобразовать "int (__thiscall MyString::* )(void)" в "int"
+  c:\users\rast0\source\repos\string1\st+fc\st+fc.cpp(97): note: Не существует контекста, в котором такое преобразование возможно

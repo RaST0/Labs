@@ -1,0 +1,13 @@
+﻿  ConsoleApplication1.cpp
+c:\users\rast0\source\repos\string1\consoleapplication1\consoleapplication1.cpp(20): error C3861: strlen: идентификатор не найден
+c:\users\rast0\source\repos\string1\consoleapplication1\consoleapplication1.cpp(45): error C3861: strlen: идентификатор не найден
+c:\users\rast0\source\repos\string1\consoleapplication1\consoleapplication1.cpp(67): error C3861: strlen: идентификатор не найден
+c:\users\rast0\source\repos\string1\consoleapplication1\consoleapplication1.cpp(89): error C3861: strlen: идентификатор не найден
+c:\users\rast0\source\repos\string1\consoleapplication1\consoleapplication1.cpp(90): error C3861: strlen: идентификатор не найден
+c:\users\rast0\source\repos\string1\consoleapplication1\consoleapplication1.cpp(118): error C2065: cout: необъявленный идентификатор
+c:\users\rast0\source\repos\string1\consoleapplication1\consoleapplication1.cpp(165): error C2065: cout: необъявленный идентификатор
+c:\users\rast0\source\repos\string1\consoleapplication1\consoleapplication1.cpp(165): error C2065: endl: необъявленный идентификатор
+c:\users\rast0\source\repos\string1\consoleapplication1\consoleapplication1.cpp(166): error C2065: cout: необъявленный идентификатор
+c:\users\rast0\source\repos\string1\consoleapplication1\consoleapplication1.cpp(166): error C2065: endl: необъявленный идентификатор
+c:\users\rast0\source\repos\string1\consoleapplication1\consoleapplication1.cpp(167): error C2065: cout: необъявленный идентификатор
+c:\users\rast0\source\repos\string1\consoleapplication1\consoleapplication1.cpp(167): error C2065: endl: необъявленный идентификатор

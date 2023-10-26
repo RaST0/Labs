@@ -1,0 +1,4 @@
+﻿  Pd.cpp
+c:\users\rast0\desktop\pro\pd\pd\pd.cpp(78): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Pd.vcxproj -> C:\Users\RaST0\Desktop\Pro\Pd\Debug\Pd.exe
+  Pd.vcxproj -> C:\Users\RaST0\Desktop\Pro\Pd\Debug\Pd.pdb (Partial PDB)

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labRememberNumber", "labRememberNumber\labRememberNumber.csproj", "{DC3EA894-DA7C-4EB1-82E2-AB46E7B914CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labRememberNumber.core", "labRememberNumber.core\labRememberNumber.core.csproj", "{5422B3BB-5D13-4ADF-921B-D08D14162753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC3EA894-DA7C-4EB1-82E2-AB46E7B914CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3EA894-DA7C-4EB1-82E2-AB46E7B914CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3EA894-DA7C-4EB1-82E2-AB46E7B914CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3EA894-DA7C-4EB1-82E2-AB46E7B914CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5422B3BB-5D13-4ADF-921B-D08D14162753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5422B3BB-5D13-4ADF-921B-D08D14162753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5422B3BB-5D13-4ADF-921B-D08D14162753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5422B3BB-5D13-4ADF-921B-D08D14162753}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F490B3B-2B1E-4FF2-9550-C2EA674DF3A9}
+	EndGlobalSection
+EndGlobal
